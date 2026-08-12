@@ -1,0 +1,8 @@
+# Package definition for du-dust
+
+package_name: du-dust
+github_repo: bootandy/dust
+artifact_format: tar.gz
+description: "A more intuitive version of du in rust"
+
+# Build for all Debian suites and all supported architectures.
