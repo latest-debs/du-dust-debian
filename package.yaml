@@ -2,6 +2,7 @@
 
 package_name: du-dust
 github_repo: bootandy/dust
+license: Apache-2.0
 artifact_format: tar.gz
 description: "A more intuitive version of du in rust"
 
